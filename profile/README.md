@@ -20,7 +20,7 @@ Features include:
 * Extensible architecture
 * Spring Boot integration
 
-> ⚠️ **Early Development**
+> **Early Development**
 >
 > KraftAdmin is under active development and is not yet production-ready. Features and APIs may change before the first stable release.
 
@@ -49,10 +49,10 @@ We're building Kraft in the open and would love your feedback.
 If you have a Spring Boot project, we'd appreciate it if you could:
 
 * ⭐ Star the repositories
-* 🧪 Try KraftAdmin in your projects
-* 🐞 Report bugs
-* 💡 Suggest features
-* 🤝 Contribute improvements
+* Try KraftAdmin in your projects
+*  Report bugs
+*  Suggest features
+*  Contribute improvements
 
 Every issue, discussion, and pull request helps us build a better framework.
 
